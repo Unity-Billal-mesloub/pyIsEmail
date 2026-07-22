@@ -47,7 +47,7 @@ run:
 You may need to run the above commands with ``sudo``.
 
 .. _pip: http://www.pip-installer.org/en/latest/
-.. _download the source code (zip): https://github.com/michaelherold/pyIsEmail/zipball/master
+.. _download the source code (zip): https://github.com/Unity-Billal-mesloub/pyIsEmail/zipball/main
 
 Usage
 -----
@@ -110,8 +110,7 @@ The base ``ParserValidator`` is based off of `Dominic Sayers`_' `is_email
 script`_. I wanted the functionality in Python, so I ported it from the
 original PHP.
 
-.. _Dominic Sayers: https://github.com/dominicsayers
-.. _is_email script: https://github.com/dominicsayers/isemail
+.. _Dominic Sayers: https://github.com/Unity-Billal-mesloub
 
 Contributing
 ------------
@@ -126,22 +125,3 @@ this scheme should be reported as bugs.
 
 .. _Semantic Versioning 2.0.0: http://semver.org/
 
-Copyright
----------
-
-Copyright (c) 2015 Michael Herold. Open sourced under the terms of the
-`MIT license`_.
-
-.. _MIT license: http://opensource.org/licenses/MIT
-
-
-.. |pypi| image:: https://img.shields.io/pypi/v/pyIsEmail.svg?style=flat-square
-   :target: https://pypi.python.org/pypi/pyIsEmail
-   :alt: Latest version released on PyPI
-.. |ci| image:: https://github.com/michaelherold/pyIsEmail/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/michaelherold/pyIsEmail/actions/workflows/ci.yml
-.. |coveralls| image:: https://img.shields.io/coveralls/michaelherold/pyIsEmail/master.svg?style=flat-square
-   :target: https://coveralls.io/r/michaelherold/pyIsEmail?branch=master
-   :alt: Test coverage
-.. |downloads| image:: https://img.shields.io/pypi/dm/pyIsEmail.svg?style=flat-square
-   :target: https://pypi.python.org/pypi/pyIsEmail/
